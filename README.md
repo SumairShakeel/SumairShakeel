@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Sumair Shakeel 👋
 
-<!--
-**SumairShakeel/SumairShakeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a tech leader with a keen interest in Artificial Intelligence Operations. I have a strong background in Python Automation, DevOps, SysOps, Cyber Security, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning advanced AI operations and automation techniques.
+- 👯 I’m looking to collaborate on innovative AI and automation projects.
+- 💬 Ask me about DevOps, SysOps, Cyber Security, and AI.
+- 📫 How to reach me: [sumairana84@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages**: Python, Bash
+- **Operating Systems**: RHEL, Ubuntu
+- **Aws Services**: Amazon Elastic Compute Cloud(ECS),
+
+
