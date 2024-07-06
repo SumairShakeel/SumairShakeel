@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
   - ## Certifications
 - Certified Python Associate Programmer(PCAP)
 - IBM Cyber Security Professional Certificate
-- 
+  
 
