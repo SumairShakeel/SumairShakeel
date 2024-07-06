@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
 - 💬 Ask me about DevOps, SysOps, Cyber Security, and AI.
 - 📫 How to reach me: [sumairana84@gmail.com]
 ## Experience
--Junior DevOps Engineer, Alnafi Institute of Emerging Science, Canada
+- Junior DevOps Engineer, Alnafi Institute of Emerging Science, Canada
 
 ## Skills
 - **Programming Languages**: Python, Bash
