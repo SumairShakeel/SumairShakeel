@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
 - **DevOps**: Docker
 
 ## Education
-- Diploma in AIOPs (Artificial Intelligence Operations)
-- Bachelor's Degree in Computer Science
+- Diploma in AIOPs (Artificial Intelligence Operations) EduQual, United Kingdom
+- Bachelor's Degree in Computer Science, University of Agriculture, Pakistan
 
 - ## Learning Projects
 - [Red Hat Enterprise Linux (RHEL)](https://github.com/SumairShakeel/Red-Hat-Enterprise-Linux-RHEL-)
