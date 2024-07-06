@@ -17,3 +17,10 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
 ## Education
 - Diploma in AIOPs (Artificial Intelligence Operations)
 - Bachelor's Degree in Computer Science
+
+- ## Learning Projects
+- [Red Hat Enterprise Linux (RHEL)](https://github.com/SumairShakeel/Red-Hat-Enterprise-Linux-RHEL-)
+  - Description: A repository documenting my learning and experiments with Red Hat Enterprise Linux (RHEL).
+  - Topics: RHEL installation, configuration, system administration, security practices, and automation scripts.
+  - Progress: Documenting key concepts and practical examples as I learn.
+
