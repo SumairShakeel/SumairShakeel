@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
 - **DevOps**: Docker
 
 ## Education
-- Diploma in AIOPs (Artificial Intelligence Operations) EduQual, United Kingdom
+- Diploma in AIOPs (Artificial Intelligence Operations) Level 6 EduQual, United Kingdom
 - Bachelor's Degree in Computer Science, University of Agriculture, Pakistan
 
 - ## Learning Projects
