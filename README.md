@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
 - Diploma in AIOPs (Artificial Intelligence Operations) Level 6 EduQual, United Kingdom
 - Bachelor's Degree in Computer Science, University of Agriculture, Pakistan
 
-- ## Certifications
+## Certifications
  - Certified Python Associate Programmer(PCAP)
  - IBM Cyber Security Professional Certificate
 
-- ## Learning Projects
+## Learning Projects
 - [Red Hat Enterprise Linux (RHEL)](https://github.com/SumairShakeel/Red-Hat-Enterprise-Linux-RHEL-)
   - Description: A repository documenting my learning and experiments with Red Hat Enterprise Linux (RHEL).
   - Topics: RHEL installation, configuration, system administration, security practices, and automation scripts.
