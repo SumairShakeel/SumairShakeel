@@ -11,6 +11,9 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
 ## Skills
 - **Programming Languages**: Python, Bash
 - **Operating Systems**: RHEL, Ubuntu
-- **Aws Services**: Amazon Elastic Compute Cloud(ECS),
+- **Aws Services**: Amazon Elastic Compute Cloud(ECS)
+- **DevOps**: Docker
 
-
+## Education
+- Diploma in AIOPs (Artificial Intelligence Operations)
+- Bachelor's Degree in Computer Science
