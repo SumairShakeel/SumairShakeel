@@ -36,6 +36,8 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
   - Progress: Documenting key concepts and practical examples as I learn.
     
 - [PythonAutomation](https://github.com/SumairShakeel/PythonAutomation)
- -Description : Basics to Advance 
-  
+  - Description: Basics to Advance
+
+- [BashScripting](https://github.com/SumairShakeel/BashScripting)
+  - Description: Basics to Advance
 
