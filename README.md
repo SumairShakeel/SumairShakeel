@@ -34,8 +34,10 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
   - Description: My journey to learn Docker and the approach to containerizing the applications.
   - Topics: Docker Registry, docker client, container to image, docker port mapping, docker volume.
   - Progress: Documenting key concepts and practical examples as I learn.
-
- 
+- [Python Automation](https://github.com/SumairShakeel/Python Automation-)
+  - Basics to Advance:
+- [Bash Scripting](https://github.com/SumairShakeel/Bash Scripting-)
+  - Description :
 
   
 
