@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
   - Topics: RHEL installation, configuration, system administration, security practices, and automation scripts.
   - Progress: Documenting key concepts and practical examples as I learn.
 
-- [Docker_DeepDive](https://github.com/SumairShakeel/DockerDeepDive-)
+- [Docker_DeepDive](https://github.com/SumairShakeel/DockerDeepDive)
   - Description: My journey to learn Docker and the approach to containerizing the applications.
   - Topics: Docker Registry, docker client, container to image, docker port mapping, docker volume.
   - Progress: Documenting key concepts and practical examples as I learn.
