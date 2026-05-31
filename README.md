@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artific
 - 🌱 I’m currently learning advanced AI operations and automation techniques.
 - 👯 I’m looking to collaborate on innovative AI and automation projects.
 - 💬 Ask me about DevOps, SysOps, Cyber Security, and AI.
-- 📫 How to reach me: [sumairana84@gmail.com]
 ## Experience
 - Linux admin at, Alnafi Institute of Emerging Science, Canada
 
