@@ -83,12 +83,6 @@ I enjoy building reliable infrastructure, automating repetitive tasks, managing 
 ## Experience
 - DevOps Engineer at Alnafi Institute of Emerging Science, Canada
 
-## Skills
-- **Programming Languages**: Python, Bash
-- **Operating Systems**: RHEL, Ubuntu
-- **Aws Services**: Amazon Elastic Compute Cloud(ECS), VPC.
-- **Containerization**: Docker
-
 ## Education
 - Diploma in AIOPs (Artificial Intelligence Operations) Level 6 EduQual, United Kingdom
 - Bachelor's Degree in Computer Science, University of Agriculture, Pakistan
