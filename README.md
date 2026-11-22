@@ -1,12 +1,107 @@
+# 👨‍💻 DevOps Engineer | Cloud & Automation Enthusiast
 
-# Hi there, I'm Sumair Shakeel 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a tech Student with a keen interest in Artificial Intelligence Operations. I have a strong background in Python Automation, DevOps, SysOps, Cyber Security, and Artificial Intelligence.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+a+DevOps+Engineer;AWS+%7C+Linux+%7C+Bash+%7C+Docker;Terraform+%7C+CI%2FCD;Automating+Infrastructure+%26+Deployments" alt="Typing SVG" />
 
-## Profile
-- 🌱 I’m currently learning advanced AI operations and automation techniques.
-- 👯 I’m looking to collaborate on innovative AI and automation projects.
-- 💬 Ask me about DevOps, SysOps, Cyber Security, and AI.
+### ☁️ Building | Automating | Deploying | Scaling
+
+</div>
+
+---
+
+##    About Me
+
+I'm a **DevOps Engineer** passionate about cloud infrastructure, automation, and modern deployment practices.
+
+I enjoy building reliable infrastructure, automating repetitive tasks, managing containerized applications, and improving software delivery through CI/CD pipelines.
+
+-   Working with AWS cloud services
+-   Comfortable with Linux environments
+-   Automating tasks using Bash scripting
+-   Containerizing applications with Docker
+-   Managing infrastructure using Terraform
+-   Exploring CI/CD automation and DevOps workflows
+-   Continuously learning and improving my technical skills
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+### Operating Systems & Scripting
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### Containers & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- AWS Cloud Infrastructure
+- Infrastructure as Code with Terraform
+- Docker and container management
+- Linux administration and Bash automation
+- CI/CD pipeline implementation
+- Scalable and reliable deployments
+
+---
+
+## 🏆 DevOps Goals
+
+- Build real-world cloud infrastructure projects
+- Automate infrastructure provisioning
+- Develop end-to-end CI/CD pipelines
+- Improve cloud security and monitoring
+- Share knowledge through GitHub projects
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Automate Everything. Deploy Anything. Scale Everywhere.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+
 ## Experience
 - Linux admin at, Alnafi Institute of Emerging Science, Canada
 
