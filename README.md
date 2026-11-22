@@ -51,17 +51,6 @@ I enjoy building reliable infrastructure, automating repetitive tasks, managing 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -86,24 +75,13 @@ I enjoy building reliable infrastructure, automating repetitive tasks, managing 
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<div align="center">
 
 ### ⚡ Automate Everything. Deploy Anything. Scale Everywhere.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
 
 ## Experience
-- Linux admin at, Alnafi Institute of Emerging Science, Canada
+- DevOps Engineer at Alnafi Institute of Emerging Science, Canada
 
 ## Skills
 - **Programming Languages**: Python, Bash
